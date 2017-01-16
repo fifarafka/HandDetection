@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/openCVLibrary310/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="426b4c3a6da2a8933401fef003da841cf9bcea25">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-openCVLibrary310-unspecified_178670b1cfab1c61862b81df6150378770fb267a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/base/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="754abaffa2df61e40678416d0673b3bd639044a8">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-base-unspecified_9e712d105df0895f572e4e6f104878f34348ea83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fc599e8cfc2c3c2ceffeb7fe9c83827581a66e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2061aa7b3bbf77c3cb42e4d667b9416f123fc9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/audio/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3598b40f7d26920f8fd574791e51d639d700556f">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-audio-unspecified_8f8455089cf8015d57017033ea77dc6cadb3cb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fc599e8cfc2c3c2ceffeb7fe9c83827581a66e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/openCVLibrary310/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="608e4700fb6772d37c8d0ba1e2e55ed0e1cde1a1">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-openCVLibrary310-unspecified_178670b1cfab1c61862b81df6150378770fb267a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_3cab8372f9633ccb368a029d606e479c5b6fcd73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="160fa17236bfe9cb75edc4e47a1e66a49e928c48">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-common-unspecified_0137f8c9f80b290e24c30fa5247e45c892bbd373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_688f8ac0c24ec25c12524702e60a68f77618c159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fc599e8cfc2c3c2ceffeb7fe9c83827581a66e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2061aa7b3bbf77c3cb42e4d667b9416f123fc9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/commonwidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="90610ad493c95170a760e1cc53b78ce423ada585">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-commonwidget-unspecified_230d8844bf40bc51c72a54c115f2e9c7b3fe3ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_0405d7aaaba1272299ce0183943c6c9656a6e3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/openCVLibrary310/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="608e4700fb6772d37c8d0ba1e2e55ed0e1cde1a1">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-openCVLibrary310-unspecified_178670b1cfab1c61862b81df6150378770fb267a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c247533677dcab8d119f9baba2c5edf6b7ee749d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_688f8ac0c24ec25c12524702e60a68f77618c159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/controller/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="827f7c35f63d07f64fd1e97848677aabe1bec75b">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-controller-unspecified_041c2e371b93a18a880ff5753a6ab15f2f77d73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_688f8ac0c24ec25c12524702e60a68f77618c159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/panowidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="50ffb01fccd0ff8a83bdf1dabc9899597f3fe84e">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-panowidget-unspecified_4594445c1ca09adc9040e75de9a83b84e62ea6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_3cab8372f9633ccb368a029d606e479c5b6fcd73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_0405d7aaaba1272299ce0183943c6c9656a6e3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_3cab8372f9633ccb368a029d606e479c5b6fcd73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c247533677dcab8d119f9baba2c5edf6b7ee749d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_0405d7aaaba1272299ce0183943c6c9656a6e3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c247533677dcab8d119f9baba2c5edf6b7ee749d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/SetUpOpenCBV/videowidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab049f0d4e8afee210a893ca9ca71d3c46dca094">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/SetUpOpenCBV-videowidget-unspecified_c4c0830a780d4f0365f3a19c0bc8588c49c3927f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/monikawojtasik/AndroidStudioProjects/SetUpOpenCBV/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2061aa7b3bbf77c3cb42e4d667b9416f123fc9d0.jar" />
+    </item>
+
+</items>
